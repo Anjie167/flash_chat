@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710197936784",
+    "project_id": "flash-chat-ff0df",
+    "storage_bucket": "flash-chat-ff0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710197936784:android:2bd0c673963d2960250e15",
+        "android_client_info": {
+          "package_name": "com.anjola.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710197936784-b75cncgm3ptp4dbpbqp5hu6c1vdu50ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOsL7CU4el_cSxJrWKAj3Ry1w5zG9s5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710197936784-b75cncgm3ptp4dbpbqp5hu6c1vdu50ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
